@@ -1,0 +1,9 @@
+git clone
+git status
+git init
+git add .
+git commmit -m "added 123"
+git push
+
+git checkout master
+git fetch
